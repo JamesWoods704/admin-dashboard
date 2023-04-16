@@ -1,2 +1,2 @@
 # admin-dashboard
-Admin dashboard project using grid from TOP
+Admin dashboard project using grid
